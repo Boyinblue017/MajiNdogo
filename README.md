@@ -2,7 +2,8 @@
 
 An interactive Power BI report exploring water access in the fictional country of **Maji Ndogo**, covering water source types, queue times, well contamination, and the gender dimension of crime linked to water collection.
 
-> **Live report:** [View on Power BI Service](#) [<!-- TODO: [https://app.powerbi.com/links/ENBYBE2JbW?ctid=7d9bbdf0-cda7-4b0c-9941-0006b9007fa7&pbi_source=linkShare]-->]
+> **Live report:** [View on Power BI Service](https://app.powerbi.com/links/ENBYBE2JbW?ctid=7d9bbdf0-cda7-4b0c-9941-0006b9007fa7&pbi_source=linkShare) 
+
 
 ---
 
@@ -65,21 +66,21 @@ The report is organised into four themes, each answering a different question:
 
 - **Power BI Desktop** for data modelling, DAX measures, and visual design
 - **Power BI Service** for publishing and sharing
-- <!-- TODO: add anything else you used, e.g. SQL, Power Query, Excel, Python -->
+- **Power Query** for manipulating data columns and cleaning
 
 Techniques demonstrated: custom shape-map visuals, stacked and clustered charts, treemaps, time-series line charts, KPI cards, and multi-page report design.
 
 ## Data
 
-The data is from the Maji Ndogo water access project dataset. <!-- TODO: add source/course name and link, plus a note on what the C/F/M categories stand for -->
+The data is from the Maji Ndogo water access project dataset. 
 
 ## Repository Contents
 
 ```
 ├── README.md
-├── MajiNdogo.pbix        <!-- TODO: add if sharing the file -->
-├── MajiNdogo1.pdf        # Static export of the report
-└── screenshots/          <!-- TODO: add page screenshots -->
+├── MajiNdogo.pbix        
+├── MajiNdogo1.pdf        
+└── screenshots/          
 ```
 
 ## How to View
@@ -91,8 +92,8 @@ The data is from the Maji Ndogo water access project dataset. <!-- TODO: add sou
 ## Author
 
 **Gid** · Data Science Student, Kenya
-<!-- TODO: add GitHub, LinkedIn, and portfolio website links -->
 
 ## Acknowledgements
 
-Built as an academic project. <!-- TODO: add course, institution, or instructor credit if applicable -->
+Built as an academic project.
+Frontier Institute of Technology.
