@@ -1,0 +1,2 @@
+# MajiNdogo
+Academic project
