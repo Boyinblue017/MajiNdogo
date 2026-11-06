@@ -2,8 +2,7 @@
 
 An interactive Power BI report exploring water access in the fictional country of **Maji Ndogo**, covering water source types, queue times, well contamination, and the gender dimension of crime linked to water collection.
 
-> **Live report:** [View on Power BI Service](https://app.powerbi.com/links/ENBYBE2JbW?ctid=7d9bbdf0-cda7-4b0c-9941-0006b9007fa7&pbi_source=linkShare) 
-
+> **Live report:** [View on Power BI Service] (https://app.powerbi.com/links/ENBYBE2JbW?ctid=7d9bbdf0-cda7-4b0c-9941-0006b9007fa7&pbi_source=linkShare)
 
 ---
 
